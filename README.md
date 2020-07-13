@@ -1,1 +1,5 @@
 # Rensberger-Productions-Website
+
+#TODO
+
+REMOVE SERVICES AND TEAMS (ALSO REMOVE CLIENT STUFF)
